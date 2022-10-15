@@ -17,10 +17,10 @@
 - Run each of the Java Class on your IDE
 
 ## Pre-requisities
-** Install JDK and Add JDK's location as JAVA_HOME in your environment variable **
-** Install gradle and Add gradle's location as GRADLE_HOME in your environment variable **
-** Add the bin's location of JDK to the path of Environment Variable **
-** Add the bin's location of gradle to the path of Environment Variable **
+- Install JDK and Add JDK's location as JAVA_HOME in your environment variable 
+- Install gradle and Add gradle's location as GRADLE_HOME in your environment variable 
+- Add the bin's location of JDK to the path of Environment Variable 
+- Add the bin's location of gradle to the path of Environment Variable 
 
 
 
