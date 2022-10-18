@@ -1,5 +1,7 @@
 package String_Manipulation;
-
+//Write a program that will give following output:
+//Input: Chattogram
+//Output: C8M
 import java.util.Scanner;
 
 public class Assignment4 {

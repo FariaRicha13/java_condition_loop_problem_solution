@@ -1,5 +1,7 @@
 package String_Manipulation;
-
+// Replace "R" from Rahim with "F" from the given String:
+//Input: Ratul and Rahim live in Rangpur
+//Output: Ratul and Fahim lives in Rangpur
 public class Assignment6 {
     public static void main(String[] args) {
         try{

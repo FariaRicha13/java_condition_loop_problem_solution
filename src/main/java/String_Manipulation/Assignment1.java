@@ -1,3 +1,4 @@
+////Extract the transaction ID from the following HTML body
 package String_Manipulation;
 
 public class Assignment1 {
@@ -29,7 +30,7 @@ public class Assignment1 {
         }
         catch (Exception e)
         {
-
+            System.out.println("Ops! Something went wrong!!");
         }
     }
 }

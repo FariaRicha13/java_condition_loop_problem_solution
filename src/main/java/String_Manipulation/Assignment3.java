@@ -1,5 +1,5 @@
 package String_Manipulation;
-
+//Core i 7 HP laptop price is 76000 tk and cash payment discount 10%. What will be the purchase price?
 public class Assignment3 {
     public static void main(String[] args) {
         try{

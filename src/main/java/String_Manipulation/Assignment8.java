@@ -1,5 +1,7 @@
 package String_Manipulation;
-
+//Write a program to convert each 1st char to uppercase from a string
+//Input: rahim lives in sylhet
+//Output: Rahim Lives in Sylhet
 import java.util.Scanner;
 
 public class Assignment8 {

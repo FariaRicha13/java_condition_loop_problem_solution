@@ -1,5 +1,7 @@
 package String_Manipulation;
-
+// Write a program that will count how many vowels in the given string:
+//Input: "roadtosdet"
+//Output: 4
 import java.util.Scanner;
 
 public class Assignment5 {
