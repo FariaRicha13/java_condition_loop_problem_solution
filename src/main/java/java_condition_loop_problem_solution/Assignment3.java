@@ -15,15 +15,23 @@ public class Assignment3 {
             num1 = input.nextDouble();
             System.out.println("Enter your second decimal number: ");
             num2 = input.nextDouble();
+           double a = num1 * 100;
 
-            if(Math.abs(num1-num2)<=0.01)
-            {
+          double b = num2 * 100;
+
+            int a1 = (int) a;
+
+            int b1 = (int) b;
+
+            if (a1 == b1) {
                 System.out.println("The numbers are same.");
+
             }
+
             else
-            {
                 System.out.println("The numbers are not same.");
-            }
+
+
 
         }
         catch (Exception e)
