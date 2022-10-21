@@ -19,14 +19,11 @@ public class Assignment8 {
                // System.out.println(ran2);
                 Scanner input = new Scanner(System.in);
                 num = input.nextInt();
-                if(num==ran1)
+                if(num==ran1||num==ran2)
                 {
                     point=point+1;
                 }
-                else if(num==ran2)
-                {
-                    point=point+1;
-                }
+                
               i++;
             }
             System.out.println("User gets "+point +" points");
